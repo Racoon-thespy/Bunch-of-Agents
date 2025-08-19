@@ -1,3 +1,5 @@
 search-agent\agent_that_searches\.env
+mem-agent\.env
+sessions-states\.env
 .venv
 venv
