@@ -3,3 +3,8 @@ mem-agent\.env
 sessions-states\.env
 .venv
 venv
+multi-agent-system\manager\sub_agents\movie_agent\.env
+multi-agent-system\manager\sub_agents\stock_analyst\.env
+multi-agent-system\manager\tools\.env
+multi-agent-system\manager\sub_agents\news_analyst\.env
+multi-agent-system\manager\.env
