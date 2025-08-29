@@ -8,3 +8,9 @@ multi-agent-system\manager\sub_agents\stock_analyst\.env
 multi-agent-system\manager\tools\.env
 multi-agent-system\manager\sub_agents\news_analyst\.env
 multi-agent-system\manager\.env
+stateful-cust-supp\.env
+stateful-cust-supp\customer_service_agent\sub_agents\sales_agent\.env
+stateful-cust-supp\customer_service_agent\sub_agents\policy_agent\.env
+stateful-cust-supp\customer_service_agent\sub_agents\order_agent\.env
+stateful-cust-supp\customer_service_agent\sub_agents\course_support_agent\.env
+stateful-cust-supp\customer_service_agent\.env
