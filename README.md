@@ -28,8 +28,9 @@ Deadlock prevention mechanisms → to keep the systems reliable under multi-agen
 
 ⚡ Getting Started
 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+- git clone https://github.com/Racoon-thespy/Bunch-of-Agents.git
+- cd Bunch-of-Agents
+
 
 2. Create and activate a virtual environment
 python -m venv venv
